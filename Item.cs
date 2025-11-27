@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
@@ -14,20 +13,3 @@ public partial class Item
 
     public bool? IsComplete { get; set; }
 }
-=======
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
-
-
-namespace TodoApi;
-
-public partial class Item
-{
-    public int Id { get; set; }
-
-    public string? Name { get; set; }
-
-    public bool? IsComplete { get; set; }
-}
->>>>>>> f190ace (“myc”)
