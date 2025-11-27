@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\TodoApi\\TodoApi.csproj": {}
+    "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\ToDoList-server\\TodoApi.csproj": {}
   },
   "projects": {
-    "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\TodoApi\\TodoApi.csproj": {
+    "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\ToDoList-server\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\ToDoList-server\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\TodoApi\\TodoApi.csproj",
+        "projectPath": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\ToDoList-server\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\WIN 11\\.nuget\\packages\\",
-        "outputPath": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\TodoApi\\obj\\",
+        "outputPath": "D:\\סמינר\\תכנות\\פו\\פרקטיקוד\\פרויקט 3\\ToDoList\\ToDoList-server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
