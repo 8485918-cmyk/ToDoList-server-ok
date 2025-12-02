@@ -26,12 +26,8 @@ var app = builder.Build();
 
 app.UseCors("AllowAll");
 
-// שימוש ב-Swagger רק בסביבת פיתוח
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 // שליפת כל המשימות
 app.MapGet("/items", async (ToDoDbContext db) =>
@@ -77,3 +73,4 @@ app.MapDelete("/items/{id}", async (int id, ToDoDbContext db) =>
 app.MapGet("/", () => Results.Redirect("/swagger"));
 
 app.Run();
+
